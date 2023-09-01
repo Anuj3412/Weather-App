@@ -99,3 +99,14 @@ body {
 
 
 }
+
+.weather{
+    display: none;
+}
+
+.error{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 24px;
+    display: none;
+}
