@@ -13,6 +13,6 @@ Welcome to the Weather App! This is a simple and user-friendly web application t
 - **Detailed Weather Reports**: View detailed weather reports, including temperature, humidity, wind speed, and more.
   
 
-## Live on : https://anuj3412.github.io/Weather-App/
+## Live on :  ### https://anuj3412.github.io/Weather-App/
 
 Enjoy using the Weather App! If you encounter any issues or have suggestions for improvements, please feel free to open an issue on GitHub.
