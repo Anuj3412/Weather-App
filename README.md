@@ -4,7 +4,7 @@
 
 Welcome to the Weather App! This is a simple and user-friendly web application that provides real-time weather information for locations around the world. It's designed to help users quickly access accurate weather data and forecasts.
 
-![Weather App Screenshot](screenshot.png)
+![Weather App Screenshot](weather-app.png)
 
 ## Features
 
