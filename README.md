@@ -9,8 +9,8 @@ Welcome to the Weather App! This is a simple and user-friendly web application t
 ## Features
 
 - **Real-time Weather Data**: Get up-to-date weather information for any location.
-- **Search Locations**: Search for weather information by city name or ZIP code.
-- **Detailed Weather Reports**: View detailed weather reports, including temperature, humidity, wind speed, and more.
+- **Search Locations**: Search for weather information by city name.
+- **Detailed Weather Reports**: View detailed weather reports, including temperature, humidity, wind speed.
   
 
 ## Live on : 
